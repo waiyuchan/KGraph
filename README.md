@@ -1,4 +1,4 @@
-## Xiangshan Culture Knowledge Graph 香山文化知识图谱系统
+## Xiangshan Culture Knowledge Graph Information System: 香山文化知识图谱信息系统
 
 ### Introduction(介绍)
 香山文化底蕴丰富，包含内容种类多，其丰富的内涵对现代具有很大的研究开发价值，其现有的研究方法和保护方式并不理想，传承方式也缺乏创新性。以挖掘、研究、弘扬香山文化为主旨，利用Ontology技术，将香山文化进行系统化整理和存储是现代化信息技术与传统文化的密切结合。
