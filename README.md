@@ -19,7 +19,7 @@ This system is a Xiangshan culture knowledge graph retrieval system designed and
 
 本系统是基于Java web框架——Spring Boot设计和开发的一个香山文化知识图谱检索系统，系统功能包括知识检索、知识结构浏览、知识推理以及知识可视化。
 
-## 二、系统部分界面
+## 二、系统部分界面（Parts of the system）
 ![](pics/001.png)
 ![](pics/002.png)
 ![](pics/003.png)
