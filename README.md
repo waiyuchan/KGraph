@@ -1,8 +1,12 @@
-## Xiangshan Culture Knowledge Graph Information System: 香山文化知识图谱信息系统
+# Xiangshan Culture Knowledge Graph Information System: 香山文化知识图谱信息系统
 
----
+![](https://img.shields.io/badge/language-Java-yellow.svg)
+![](https://img.shields.io/badge/license-Apache_2.0-green.svg)
 
-### Introduction(介绍)
+----
+
+## 一、介绍（Introduction）
+
 Fragrant Mountain has a rich cultural heritage and contains many kinds of content. Its rich connotation has excellent research and development value for modern times. Its existing research methods and protection methods are not ideal, and its inheritance methods lack innovation. The purpose of excavating, researching and promoting Xiangshan culture is to use Ontology technology to systematically organize and store Xiangshan culture, which is a close combination of modern information technology and traditional culture.
 
 香山文化底蕴丰富，包含内容种类多，其丰富的内涵对现代具有很大的研究开发价值，其现有的研究方法和保护方式并不理想，传承方式也缺乏创新性。以挖掘、研究、弘扬香山文化为主旨，利用Ontology技术，将香山文化进行系统化整理和存储是现代化信息技术与传统文化的密切结合。
@@ -15,9 +19,15 @@ This system is a Xiangshan culture knowledge graph retrieval system designed and
 
 本系统是基于Java web框架——Spring Boot设计和开发的一个香山文化知识图谱检索系统，系统功能包括知识检索、知识结构浏览、知识推理以及知识可视化。
 
-----
+## 二、系统部分界面
+![](pics/001.png)
+![](pics/002.png)
+![](pics/003.png)
+![](pics/004.png)
+![](pics/005.png)
+![](pics/006.png)
 
-### 论文引用
+## 三、论文引用（Reference）
 
 If you reference or use the results of this project in your research, please cite in the following format:
 
