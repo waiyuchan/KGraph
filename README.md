@@ -1,4 +1,4 @@
-# Xiangshan Culture Knowledge Graph Information System: 香山文化知识图谱信息系统
+# Ontology-based knowledge map retrieval system of Xiangshan culture: 基于本体的香山文化知识图谱检索系统
 
 ![](https://img.shields.io/badge/language-Java-yellow.svg)
 ![](https://img.shields.io/badge/license-Apache_2.0-green.svg)
