@@ -1,6 +1,7 @@
 # Ontology-based Knowledge Graph Retrieval System of Xiangshan Culture: 基于本体的香山文化知识图谱检索系统
 
-![](https://img.shields.io/badge/language-Java-yellow.svg)
+![](https://img.shields.io/badge/language-Java-orange.svg)
+![](https://img.shields.io/badge/framework-SpringBoot-yellow.svg)
 ![](https://img.shields.io/badge/license-Apache_2.0-green.svg)
 
 ----
