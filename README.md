@@ -27,16 +27,3 @@ This system is a Xiangshan culture knowledge graph retrieval system designed and
 ![](pics/005.png)
 ![](pics/006.png)
 
-## 三、论文引用（Reference）
-
-If you reference or use the results of this project in your research, please cite in the following format:
-
-```
-CHEN, W. Y., JIANG, Y., LUO, S. H., HUANG, J. W., & WU, H. C. (2017). Xiangshan Culture Information Organization and Retrieval System Based on Knowledge Graph. Computer Systems & Applications.
-```
-
-如果你在研究过程中参考或用到了本项目的成果，请按以下格式引用：
-
-```
-陈威宇,姜赢,罗盛亨,黄嘉文,吴昊驰.基于知识图谱的香山文化信息组织与检索系统[J].计算机系统应用,2017,26(09):82-86.DOI:10.15888/j.cnki.csa.005924.
-```
